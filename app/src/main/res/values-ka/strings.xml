@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_permissions_this_time">ამჯერად უფლებები არ მაქვს</string>
+    <string name="take_photo">სურათის გადაღება</string>
+    <string name="enter_text">შეიყვანე ტექსტი</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="default_language">ძირითადი ენა</string>
+    <string name="last_photo_location">ბოლო სურათის მისამართი = %s</string>
+</resources>
